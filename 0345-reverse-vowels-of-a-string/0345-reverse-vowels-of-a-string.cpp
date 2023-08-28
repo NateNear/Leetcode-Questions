@@ -1,27 +1,24 @@
 class Solution {
 public:
     string reverseVowels(string s) {
-
-        string word = s;
-        int start = 0;
-        int end = s.length() - 1;
-        string vowels = "aeiouAEIOU";
         
-        while (start < end) {
-
-            while (start < end && vowels.find(word[start]) == string::npos) {
-                start++;
-            }
-
-            while (start < end && vowels.find(word[end]) == string::npos) {
-                end--;
-            }
-
-            swap(word[start], word[end]);
-            start++;
-            end--;
+        vector<char> v;
+        for(int i = 0 ; i < s.length(); i++)
+        {
+            if(s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u'
+              || s[i] == 'A' || s[i] == 'E' || s[i] == 'O' || s[i] == 'I' || s[i] == 'U')
+                v.push_back(s[i]);
         }
-        
-        return word;
+        reverse(v.begin(), v.end());
+        int rev = 0;
+        for(int i = 0 ; i < s.length(); i++)
+        {
+            if(s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u'
+              || s[i] == 'A' || s[i] == 'E' || s[i] == 'O' || s[i] == 'I' || s[i] == 'U'){
+                s[i] = v[rev];
+                rev++;
+            }
+        }
+        return s;
     }
 };
