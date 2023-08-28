@@ -9,38 +9,53 @@
  * };
  */
 class Solution {
+    ListNode* midele(ListNode* head){
+        ListNode* slow = head;
+        ListNode* fast = head->next;
 
-    bool isArrPalindrome(vector<int> arr) {
-        int n = arr.size();
-        int s = 0;
-        int e = n-1;
-
-        while(s<=e){
-            if(arr[s]!=arr[e]){
-                return 0;
-            }
-            else{
-                s++;
-                e--;
-            }
+        while(fast!=NULL && fast->next != NULL){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        return 1;
 
+        return slow;
     }
 
-public:
-    bool isPalindrome(ListNode* head) {
-        vector<int> arr;
+    ListNode* reverse(ListNode* head){
         ListNode* curr = head;
-        
+        ListNode* prev = NULL;
+        ListNode* fwd = NULL;
+
         while(curr!=NULL){
-
-        arr.push_back(curr->val);
-
-        curr= curr->next;
-
+            fwd = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr= fwd;
         }
 
-        return isArrPalindrome(arr);
+        return prev;
+    }
+public:
+    bool isPalindrome(ListNode* head) {
+        ListNode* mid = midele(head);
+
+        ListNode* temp = mid->next;
+        
+        ListNode*hide = mid->next = reverse(temp);
+
+        ListNode* head1 = head;
+        ListNode* head2  = hide;
+
+        while(head2!=NULL){
+            if(head1->val != head2->val){
+                return 0;
+            }
+
+            head1=head1->next;
+            head2 = head2->next;
+
+        }
+        mid->next = reverse(temp);
+        return 1;
     }
 };
