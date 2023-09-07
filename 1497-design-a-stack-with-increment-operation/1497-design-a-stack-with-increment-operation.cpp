@@ -7,7 +7,7 @@ public:
     }
     
     void push(int x) {
-        if((int)st.size()<maxSize)
+        if(st.size()<maxSize)
         {
             st.push(x);
         }
