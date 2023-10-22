@@ -1,7 +1,9 @@
 
 class Solution { 
     public: vector<int> plusOne(vector<int>& v) { 
-        int n = v.size(); for(int i = n-1; i >= 0; i--){ 
+        int n = v.size(); 
+        
+        for(int i = n-1; i >= 0; i--){ 
             
             if(i == n-1) 
                 v[i]++; 
