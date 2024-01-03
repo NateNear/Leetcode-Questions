@@ -10,19 +10,21 @@
  * };
  */
 class Solution {
-    public:
-bool rootToLeafPathSum(TreeNode* root, int targetSum, int sum){
-        if(root == nullptr)
+public:
+    bool hasPathSum(TreeNode* root, int targetSum)
+    {
+        if(root == NULL)
+        {
             return false;
-        if(root -> left == nullptr && root -> right == nullptr){
-            sum = sum + root -> val;
-            if(sum == targetSum)
-                return true;   
         }
-        return rootToLeafPathSum(root -> left, targetSum, sum + root -> val) || rootToLeafPathSum(root -> right, targetSum, sum + root -> val);
-    }
-    bool hasPathSum(TreeNode* root, int targetSum) {
-        int sum = 0;
-        return rootToLeafPathSum(root, targetSum, sum);
+        if(root->left == NULL && root->right == NULL && root->val - targetSum == 0)
+        {
+            return true;
+        }
+        
+        bool left = hasPathSum(root->left,targetSum - root->val);
+        bool right = hasPathSum(root->right,targetSum - root->val);
+        
+        return left || right;
     }
 };
