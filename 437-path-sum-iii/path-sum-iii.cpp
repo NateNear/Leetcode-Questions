@@ -10,26 +10,28 @@
  * };
  */
 class Solution {
-public:
-    void check(TreeNode*root, int targetSum,vector<int> &sum,int &count){
-        if(root==NULL)
-        return ;
+    void solve(TreeNode* root, int targetSum, vector<int> &sum, int &count){
+        if(root==NULL) return ;
 
         sum.push_back(root->val);
-        long long int currSum=0;
-        for(int i=sum.size()-1;i>=0;i--){
-            currSum += sum[i];
-            if(targetSum==currSum)
-            count++;
+
+        long long int tot = 0;
+        for(int i = sum.size() - 1; i >= 0; i--){
+            tot += sum[i];
+            if(tot == targetSum)
+                count++;
         }
-        check(root->left, targetSum, sum, count);
-        check(root->right, targetSum, sum, count);
+
+        solve(root->left, targetSum, sum, count);
+        solve(root->right, targetSum, sum, count);
+
         sum.pop_back();
     }
+public:
     int pathSum(TreeNode* root, int targetSum) {
-        int count =0;
         vector<int> sum;
-        check(root, targetSum, sum, count);
+        int count=0;
+        solve(root,targetSum, sum, count);
         return count;
     }
 };
