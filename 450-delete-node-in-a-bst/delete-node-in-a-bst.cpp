@@ -50,7 +50,7 @@ public:
                 delete root;
                 return temp;
             }
-            
+            //2 child
             else {
                 TreeNode* mini = minVal(root->right);
                 root->val = mini->val;
