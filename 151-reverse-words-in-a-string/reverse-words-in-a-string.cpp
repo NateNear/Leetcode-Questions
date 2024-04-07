@@ -17,14 +17,17 @@ public:
                 word += s[i];
             }
         }
+        
         if(word.size()>0 and word[0]!=' ')
             ans.push_back(word);
+
         string out = "";
 
-        for(int i=ans.size()-1; i>0; i--){
-            out += ans[i];
-            out += ' '; 
+        for(int j=ans.size()-1; j>0; j--){
+            out += ans[j];
+            out += ' ';
         }
-        return out+ans[0];
+        return out+ans[0
+        ];
     }
 };
