@@ -23,7 +23,7 @@ public:
             
             else if(count==1){
                 ans[index] = total;
-                
+                return ans;
             }
 
             else{
