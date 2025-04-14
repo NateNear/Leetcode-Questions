@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/NateNear/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NateNear/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NateNear/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/NateNear/Leetcode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NateNear/Leetcode-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Math
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NateNear/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/NateNear/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/NateNear/Leetcode-Questions/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/NateNear/Leetcode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NateNear/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/NateNear/Leetcode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
