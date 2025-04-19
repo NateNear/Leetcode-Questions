@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/NateNear/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NateNear/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/NateNear/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/NateNear/Leetcode-Questions/tree/master/0792-binary-search) |
 | [1656-count-good-triplets](https://github.com/NateNear/Leetcode-Questions/tree/master/1656-count-good-triplets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NateNear/Leetcode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NateNear/Leetcode-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/NateNear/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/NateNear/Leetcode-Questions/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
