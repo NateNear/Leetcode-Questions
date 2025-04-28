@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/NateNear/Leetcode-Questions/tree/master/1656-count-good-triplets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NateNear/Leetcode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NateNear/Leetcode-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/NateNear/Leetcode-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Math
 |  |
 | ------- |
