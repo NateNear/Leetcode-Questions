@@ -11,32 +11,27 @@
 class Solution {
 public:
 
-    ListNode* opti(ListNode* head){
-        if(head==NULL || head->next==NULL){
-            return head;
+    int getlen(ListNode* head){
+        int len = 0;
+        while(head!=NULL){
+            len++;
+            head=head->next;
         }
-
-        if(head->next->next == NULL){
-            ListNode*temp = head->next;
-            return temp;
-        }
-
-        ListNode*fast = head->next;
-        ListNode*slow = head;
-
-        while(fast!=NULL){
-            fast = fast->next;
-            if(fast!=NULL){
-                fast = fast->next;
-            }
-
-            slow = slow->next;
-        }
-        return slow;
+        return len;
     }
 
     ListNode* middleNode(ListNode* head) {
-        ListNode*temp = opti(head);
-        return temp;
+        int cnt = 1;
+        int n = getlen(head);
+        int mid  = (n/2) + 1;
+
+        ListNode*curr = head;
+
+        while(cnt<mid){
+            curr = curr->next;
+            cnt++;
+        }
+
+        return curr;
     }
 };
