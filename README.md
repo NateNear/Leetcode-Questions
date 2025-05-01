@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/NateNear/Leetcode-Questions/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NateNear/Leetcode-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1656-count-good-triplets](https://github.com/NateNear/Leetcode-Questions/tree/master/1656-count-good-triplets) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NateNear/Leetcode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NateNear/Leetcode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NateNear/Leetcode-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/NateNear/Leetcode-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/NateNear/Leetcode-Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/NateNear/Leetcode-Questions/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NateNear/Leetcode-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NateNear/Leetcode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NateNear/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/NateNear/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/NateNear/Leetcode-Questions/tree/master/0268-missing-number) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NateNear/Leetcode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,4 +125,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/NateNear/Leetcode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/NateNear/Leetcode-Questions/tree/master/0908-middle-of-the-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NateNear/Leetcode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NateNear/Leetcode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NateNear/Leetcode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
