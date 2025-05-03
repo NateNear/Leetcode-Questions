@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/NateNear/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/NateNear/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/NateNear/Leetcode-Questions/tree/master/0268-missing-number) |
+| [2383-add-two-integers](https://github.com/NateNear/Leetcode-Questions/tree/master/2383-add-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
