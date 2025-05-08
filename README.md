@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/NateNear/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/NateNear/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/NateNear/Leetcode-Questions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/NateNear/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/NateNear/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/NateNear/Leetcode-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NateNear/Leetcode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/NateNear/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/NateNear/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/NateNear/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/NateNear/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NateNear/Leetcode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/NateNear/Leetcode-Questions/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
@@ -159,8 +161,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/NateNear/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/NateNear/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/NateNear/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/NateNear/Leetcode-Questions/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/NateNear/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
