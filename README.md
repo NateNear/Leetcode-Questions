@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/NateNear/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/NateNear/Leetcode-Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/NateNear/Leetcode-Questions/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/NateNear/Leetcode-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/NateNear/Leetcode-Questions/tree/master/1293-three-consecutive-odds) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NateNear/Leetcode-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1656-count-good-triplets](https://github.com/NateNear/Leetcode-Questions/tree/master/1656-count-good-triplets) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/NateNear/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/NateNear/Leetcode-Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/NateNear/Leetcode-Questions/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/NateNear/Leetcode-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NateNear/Leetcode-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NateNear/Leetcode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Bit Manipulation
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/NateNear/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/NateNear/Leetcode-Questions/tree/master/1046-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -197,4 +200,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NateNear/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/NateNear/Leetcode-Questions/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
