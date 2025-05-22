@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/NateNear/Leetcode-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/NateNear/Leetcode-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/NateNear/Leetcode-Questions/tree/master/1293-three-consecutive-odds) |
+| [1370-count-number-of-nice-subarrays](https://github.com/NateNear/Leetcode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NateNear/Leetcode-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1656-count-good-triplets](https://github.com/NateNear/Leetcode-Questions/tree/master/1656-count-good-triplets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NateNear/Leetcode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/NateNear/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/NateNear/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/NateNear/Leetcode-Questions/tree/master/0268-missing-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/NateNear/Leetcode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2383-add-two-integers](https://github.com/NateNear/Leetcode-Questions/tree/master/2383-add-two-integers) |
 ## Two Pointers
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/NateNear/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/NateNear/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/NateNear/Leetcode-Questions/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/NateNear/Leetcode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NateNear/Leetcode-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Binary Search
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/NateNear/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/NateNear/Leetcode-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/NateNear/Leetcode-Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/NateNear/Leetcode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Linked List
 |  |
 | ------- |
@@ -208,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/NateNear/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/NateNear/Leetcode-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/NateNear/Leetcode-Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/NateNear/Leetcode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
