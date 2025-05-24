@@ -206,11 +206,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NateNear/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/NateNear/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NateNear/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/NateNear/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/NateNear/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/NateNear/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/NateNear/Leetcode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
