@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/NateNear/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NateNear/Leetcode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Queue
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/NateNear/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/NateNear/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/NateNear/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## String
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/NateNear/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/NateNear/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/NateNear/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/NateNear/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/NateNear/Leetcode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
