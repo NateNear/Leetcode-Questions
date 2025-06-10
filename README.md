@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/NateNear/Leetcode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/NateNear/Leetcode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NateNear/Leetcode-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NateNear/Leetcode-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/NateNear/Leetcode-Questions/tree/master/0169-majority-element) |
 | [1034-subarrays-with-k-different-integers](https://github.com/NateNear/Leetcode-Questions/tree/master/1034-subarrays-with-k-different-integers) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NateNear/Leetcode-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/NateNear/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NateNear/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/NateNear/Leetcode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NateNear/Leetcode-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
 | ------- |
